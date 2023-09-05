@@ -15,6 +15,6 @@ Things I added/changed
 * Added when the ball hits a paddle the velocity of the ball increases
 
 How to use:
-* Implement all the .java files then run the game.java file.
+* Copy all the .java files then run the game.java file.
 * Once in game you can select play or quit with the mouse
 * The control for the paddles are w and s keys for the left paddle. For the right paddle the keys are the up and down arrows.
